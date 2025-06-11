@@ -2,6 +2,8 @@
 name = "mdf"
 version = "0.1.0"
 edition = "2024"
+description = "MDFive, simple md5 tool"
+license = "MIT"
 
 [dependencies]
 md5 = "0.7.0"
