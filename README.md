@@ -33,6 +33,6 @@ mdf abc
 Or with spaces between without (`a b c`) boring with syntax:
 
 ```
-md5 a b c
+mdf a b c
 06f0760ec7f18687a7fbc0ddbf1b1722
 ```
